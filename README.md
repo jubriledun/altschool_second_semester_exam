@@ -21,6 +21,8 @@ Create a simple HTML page <br> <br>
 
 Deploy the HTML page on the server <br> <br>
 ![image](https://github.com/user-attachments/assets/07559edb-beba-4304-a751-0adcd3e35f57) <br> <br>
+![image](https://github.com/user-attachments/assets/e7d29d0e-b6c2-4be4-b9b0-54aaf364ebc2) <br> <br>
+
 
 ### Step 4: Networking
 Configure the server to allow HTTP traffic (port 80) <br>
