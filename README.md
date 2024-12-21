@@ -18,6 +18,7 @@ SSH into the EC2 <br> <br>
 
 ### Step 3: HTML Page Deployment
 Create a simple HTML page <br> <br>
+https://github.com/jubriledun/altschool_second_semester_exam/blob/master/index.html <br> <br>
 
 Deploy the HTML page on the server <br> <br>
 ![image](https://github.com/user-attachments/assets/07559edb-beba-4304-a751-0adcd3e35f57) <br> <br>
