@@ -16,6 +16,9 @@ SSH into the EC2 <br> <br>
 ![image](https://github.com/user-attachments/assets/ce78a65b-07de-4560-8b8f-5314d9de2f60) <br> <br>
 ![image](https://github.com/user-attachments/assets/48910fed-9bc6-484d-a7a1-ba76bee87e0a) <br> <br>
 
+### Step 3: HTML Page Deployment
+
+
 
 
 
