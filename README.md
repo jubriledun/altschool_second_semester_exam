@@ -37,9 +37,6 @@ A screenshot showing your HTML page in a browser. <br> <br>
 ![image](https://github.com/user-attachments/assets/1ea5c20d-1674-4a44-ab2c-6ec5b4d50c7c) <br> <br>
 
 
-## Bonus Tasks
-
-
 
 
 
