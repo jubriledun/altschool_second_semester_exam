@@ -2,11 +2,20 @@
 AltSchool Cloud Engineering Second Semester Examination Project
 
 ## Implementation
-### Step 1: Create EC2 and SSH into the EC2 
+### Step 1: Provisioning the Server
+
+Create EC2 <br> <br>
 ![image](https://github.com/user-attachments/assets/889e41ec-170b-4025-abb5-54369cb44880) <br> <br>
 
+SSH into the EC2 <br> <br>
 ![image](https://github.com/user-attachments/assets/54780ac5-5691-4b37-81fc-b9e8a03d3602) <br> <br>
 
 
-### Step 2: 
+### Step 2: Web Server Setup
+
+![image](https://github.com/user-attachments/assets/ce78a65b-07de-4560-8b8f-5314d9de2f60) <br> <br>
+![image](https://github.com/user-attachments/assets/48910fed-9bc6-484d-a7a1-ba76bee87e0a) <br> <br>
+
+
+
 
