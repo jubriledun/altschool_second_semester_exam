@@ -28,6 +28,9 @@ Deploy the HTML page on the server <br> <br>
 Configure the server to allow HTTP traffic (port 80) <br>
 ![image](https://github.com/user-attachments/assets/b9a25d47-d1a1-446a-ab76-9c329c872afa) <br> <br>
 
+Provide the public IP address so your page can be accessed from any browser. <br> <br>
+IP address: 3.93.163.138
+
 
 
 
